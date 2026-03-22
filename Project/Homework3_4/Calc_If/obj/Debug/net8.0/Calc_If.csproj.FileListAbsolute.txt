@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\Homework3_4\Calc_If\bin\Debug\net8.0\Calc_If.exe
+D:\CSharp2025\Project\Homework3_4\Calc_If\bin\Debug\net8.0\Calc_If.deps.json
+D:\CSharp2025\Project\Homework3_4\Calc_If\bin\Debug\net8.0\Calc_If.runtimeconfig.json
+D:\CSharp2025\Project\Homework3_4\Calc_If\bin\Debug\net8.0\Calc_If.dll
+D:\CSharp2025\Project\Homework3_4\Calc_If\bin\Debug\net8.0\Calc_If.pdb
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\Calc_If.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\Calc_If.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\Calc_If.AssemblyInfo.cs
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\Calc_If.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\Calc_If.dll
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\refint\Calc_If.dll
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\Calc_If.pdb
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\Calc_If.genruntimeconfig.cache
+D:\CSharp2025\Project\Homework3_4\Calc_If\obj\Debug\net8.0\ref\Calc_If.dll

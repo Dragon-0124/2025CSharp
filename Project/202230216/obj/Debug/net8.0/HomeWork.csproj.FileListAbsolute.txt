@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\HomeWork\bin\Debug\net8.0\HomeWork.exe
+D:\CSharp2025\Project\HomeWork\bin\Debug\net8.0\HomeWork.deps.json
+D:\CSharp2025\Project\HomeWork\bin\Debug\net8.0\HomeWork.runtimeconfig.json
+D:\CSharp2025\Project\HomeWork\bin\Debug\net8.0\HomeWork.dll
+D:\CSharp2025\Project\HomeWork\bin\Debug\net8.0\HomeWork.pdb
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\HomeWork.dll
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\refint\HomeWork.dll
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\HomeWork.pdb
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\HomeWork.genruntimeconfig.cache
+D:\CSharp2025\Project\HomeWork\obj\Debug\net8.0\ref\HomeWork.dll

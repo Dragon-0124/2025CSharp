@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\bin\Debug\net8.0\LoopEx0923.exe
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\bin\Debug\net8.0\LoopEx0923.deps.json
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\bin\Debug\net8.0\LoopEx0923.runtimeconfig.json
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\bin\Debug\net8.0\LoopEx0923.dll
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\bin\Debug\net8.0\LoopEx0923.pdb
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\LoopEx0923.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\LoopEx0923.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\LoopEx0923.AssemblyInfo.cs
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\LoopEx0923.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\LoopEx0923.dll
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\refint\LoopEx0923.dll
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\LoopEx0923.pdb
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\LoopEx0923.genruntimeconfig.cache
+D:\CSharp2025\Project\LoopEx0923\LoopEx0923\obj\Debug\net8.0\ref\LoopEx0923.dll

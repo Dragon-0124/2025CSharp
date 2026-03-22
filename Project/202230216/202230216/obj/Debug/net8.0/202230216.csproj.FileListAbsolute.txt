@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\202230216\202230216\bin\Debug\net8.0\202230216.exe
+D:\CSharp2025\Project\202230216\202230216\bin\Debug\net8.0\202230216.deps.json
+D:\CSharp2025\Project\202230216\202230216\bin\Debug\net8.0\202230216.runtimeconfig.json
+D:\CSharp2025\Project\202230216\202230216\bin\Debug\net8.0\202230216.dll
+D:\CSharp2025\Project\202230216\202230216\bin\Debug\net8.0\202230216.pdb
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\202230216.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\202230216.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\202230216.AssemblyInfo.cs
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\202230216.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\202230216.dll
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\refint\202230216.dll
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\202230216.pdb
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\202230216.genruntimeconfig.cache
+D:\CSharp2025\Project\202230216\202230216\obj\Debug\net8.0\ref\202230216.dll

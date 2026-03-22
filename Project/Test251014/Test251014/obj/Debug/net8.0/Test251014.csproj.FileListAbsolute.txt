@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\Test251014\Test251014\bin\Debug\net8.0\Test251014.exe
+D:\CSharp2025\Project\Test251014\Test251014\bin\Debug\net8.0\Test251014.deps.json
+D:\CSharp2025\Project\Test251014\Test251014\bin\Debug\net8.0\Test251014.runtimeconfig.json
+D:\CSharp2025\Project\Test251014\Test251014\bin\Debug\net8.0\Test251014.dll
+D:\CSharp2025\Project\Test251014\Test251014\bin\Debug\net8.0\Test251014.pdb
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\Test251014.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\Test251014.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\Test251014.AssemblyInfo.cs
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\Test251014.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\Test251014.dll
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\refint\Test251014.dll
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\Test251014.pdb
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\Test251014.genruntimeconfig.cache
+D:\CSharp2025\Project\Test251014\Test251014\obj\Debug\net8.0\ref\Test251014.dll

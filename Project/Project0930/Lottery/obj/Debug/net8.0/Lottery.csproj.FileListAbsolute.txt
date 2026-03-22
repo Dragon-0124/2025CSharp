@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\Project0930\Lottery\bin\Debug\net8.0\Lottery.exe
+D:\CSharp2025\Project\Project0930\Lottery\bin\Debug\net8.0\Lottery.deps.json
+D:\CSharp2025\Project\Project0930\Lottery\bin\Debug\net8.0\Lottery.runtimeconfig.json
+D:\CSharp2025\Project\Project0930\Lottery\bin\Debug\net8.0\Lottery.dll
+D:\CSharp2025\Project\Project0930\Lottery\bin\Debug\net8.0\Lottery.pdb
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfo.cs
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\Lottery.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\Lottery.dll
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\refint\Lottery.dll
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\Lottery.pdb
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\Lottery.genruntimeconfig.cache
+D:\CSharp2025\Project\Project0930\Lottery\obj\Debug\net8.0\ref\Lottery.dll

@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\car\car\bin\Debug\net8.0\car.exe
+D:\CSharp2025\Project\car\car\bin\Debug\net8.0\car.deps.json
+D:\CSharp2025\Project\car\car\bin\Debug\net8.0\car.runtimeconfig.json
+D:\CSharp2025\Project\car\car\bin\Debug\net8.0\car.dll
+D:\CSharp2025\Project\car\car\bin\Debug\net8.0\car.pdb
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\car.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\car.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\car.AssemblyInfo.cs
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\car.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\car.dll
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\refint\car.dll
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\car.pdb
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\car.genruntimeconfig.cache
+D:\CSharp2025\Project\car\car\obj\Debug\net8.0\ref\car.dll

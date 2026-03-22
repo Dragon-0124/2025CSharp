@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\PrintEx20250826\bin\Debug\net8.0\PrintEx20250826.exe
+D:\CSharp2025\Project\PrintEx20250826\bin\Debug\net8.0\PrintEx20250826.deps.json
+D:\CSharp2025\Project\PrintEx20250826\bin\Debug\net8.0\PrintEx20250826.runtimeconfig.json
+D:\CSharp2025\Project\PrintEx20250826\bin\Debug\net8.0\PrintEx20250826.dll
+D:\CSharp2025\Project\PrintEx20250826\bin\Debug\net8.0\PrintEx20250826.pdb
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\PrintEx20250826.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\PrintEx20250826.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\PrintEx20250826.AssemblyInfo.cs
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\PrintEx20250826.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\PrintEx20250826.dll
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\refint\PrintEx20250826.dll
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\PrintEx20250826.pdb
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\PrintEx20250826.genruntimeconfig.cache
+D:\CSharp2025\Project\PrintEx20250826\obj\Debug\net8.0\ref\PrintEx20250826.dll

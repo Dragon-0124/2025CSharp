@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\bin\Debug\net8.0\PropertyPerson251028.exe
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\bin\Debug\net8.0\PropertyPerson251028.deps.json
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\bin\Debug\net8.0\PropertyPerson251028.runtimeconfig.json
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\bin\Debug\net8.0\PropertyPerson251028.dll
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\bin\Debug\net8.0\PropertyPerson251028.pdb
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\PropertyPerson251028.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\PropertyPerson251028.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\PropertyPerson251028.AssemblyInfo.cs
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\PropertyPerson251028.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\PropertyPerson251028.dll
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\refint\PropertyPerson251028.dll
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\PropertyPerson251028.pdb
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\PropertyPerson251028.genruntimeconfig.cache
+D:\CSharp2025\Project\LoopEx0923\ObjectEx0930\PropertyPerson251028\obj\Debug\net8.0\ref\PropertyPerson251028.dll

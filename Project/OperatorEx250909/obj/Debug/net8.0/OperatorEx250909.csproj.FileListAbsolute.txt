@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\OperatorEx250909\bin\Debug\net8.0\OperatorEx250909.exe
+D:\CSharp2025\Project\OperatorEx250909\bin\Debug\net8.0\OperatorEx250909.deps.json
+D:\CSharp2025\Project\OperatorEx250909\bin\Debug\net8.0\OperatorEx250909.runtimeconfig.json
+D:\CSharp2025\Project\OperatorEx250909\bin\Debug\net8.0\OperatorEx250909.dll
+D:\CSharp2025\Project\OperatorEx250909\bin\Debug\net8.0\OperatorEx250909.pdb
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\OperatorEx250909.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\OperatorEx250909.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\OperatorEx250909.AssemblyInfo.cs
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\OperatorEx250909.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\OperatorEx250909.dll
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\refint\OperatorEx250909.dll
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\OperatorEx250909.pdb
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\OperatorEx250909.genruntimeconfig.cache
+D:\CSharp2025\Project\OperatorEx250909\obj\Debug\net8.0\ref\OperatorEx250909.dll

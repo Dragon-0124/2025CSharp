@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\bin\Debug\net8.0\Arr3DxEx0930.exe
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\bin\Debug\net8.0\Arr3DxEx0930.deps.json
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\bin\Debug\net8.0\Arr3DxEx0930.runtimeconfig.json
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\bin\Debug\net8.0\Arr3DxEx0930.dll
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\bin\Debug\net8.0\Arr3DxEx0930.pdb
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\Arr3DxEx0930.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\Arr3DxEx0930.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\Arr3DxEx0930.AssemblyInfo.cs
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\Arr3DxEx0930.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\Arr3DxEx0930.dll
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\refint\Arr3DxEx0930.dll
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\Arr3DxEx0930.pdb
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\Arr3DxEx0930.genruntimeconfig.cache
+D:\CSharp2025\Project\LoopEx0923\Arr3DxEx0930\obj\Debug\net8.0\ref\Arr3DxEx0930.dll

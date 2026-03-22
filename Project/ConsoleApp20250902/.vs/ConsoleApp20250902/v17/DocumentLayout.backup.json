@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp2025\\Project\\ConsoleApp20250902\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF5655B-D29B-4E37-B507-E0E1F80819F9}|ConsoleApp20250902.csproj|d:\\csharp2025\\project\\consoleapp20250902\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF5655B-D29B-4E37-B507-E0E1F80819F9}|ConsoleApp20250902.csproj|solutionrelative:hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello.cs",
+              "DocumentMoniker": "D:\\CSharp2025\\Project\\ConsoleApp20250902\\Hello.cs",
+              "RelativeDocumentMoniker": "Hello.cs",
+              "ToolTip": "D:\\CSharp2025\\Project\\ConsoleApp20250902\\Hello.cs",
+              "RelativeToolTip": "Hello.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:27:36.137Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

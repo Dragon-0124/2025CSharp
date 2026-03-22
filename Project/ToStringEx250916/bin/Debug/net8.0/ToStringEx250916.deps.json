@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ToStringEx250916/1.0.0": {
+        "runtime": {
+          "ToStringEx250916.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToStringEx250916/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

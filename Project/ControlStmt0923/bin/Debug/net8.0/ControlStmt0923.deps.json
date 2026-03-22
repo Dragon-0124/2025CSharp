@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ControlStmt0923/1.0.0": {
+        "runtime": {
+          "ControlStmt0923.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlStmt0923/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

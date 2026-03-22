@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\LoopEx0923\gugudan\bin\Debug\net8.0\gugudan.exe
+D:\CSharp2025\Project\LoopEx0923\gugudan\bin\Debug\net8.0\gugudan.deps.json
+D:\CSharp2025\Project\LoopEx0923\gugudan\bin\Debug\net8.0\gugudan.runtimeconfig.json
+D:\CSharp2025\Project\LoopEx0923\gugudan\bin\Debug\net8.0\gugudan.dll
+D:\CSharp2025\Project\LoopEx0923\gugudan\bin\Debug\net8.0\gugudan.pdb
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\gugudan.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\gugudan.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\gugudan.AssemblyInfo.cs
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\gugudan.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\gugudan.dll
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\refint\gugudan.dll
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\gugudan.pdb
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\gugudan.genruntimeconfig.cache
+D:\CSharp2025\Project\LoopEx0923\gugudan\obj\Debug\net8.0\ref\gugudan.dll

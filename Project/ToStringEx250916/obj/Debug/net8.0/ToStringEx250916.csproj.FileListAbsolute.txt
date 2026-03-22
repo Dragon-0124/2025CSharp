@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\ToStringEx250916\bin\Debug\net8.0\ToStringEx250916.exe
+D:\CSharp2025\Project\ToStringEx250916\bin\Debug\net8.0\ToStringEx250916.deps.json
+D:\CSharp2025\Project\ToStringEx250916\bin\Debug\net8.0\ToStringEx250916.runtimeconfig.json
+D:\CSharp2025\Project\ToStringEx250916\bin\Debug\net8.0\ToStringEx250916.dll
+D:\CSharp2025\Project\ToStringEx250916\bin\Debug\net8.0\ToStringEx250916.pdb
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\ToStringEx250916.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\ToStringEx250916.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\ToStringEx250916.AssemblyInfo.cs
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\ToStringEx250916.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\ToStringEx250916.dll
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\refint\ToStringEx250916.dll
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\ToStringEx250916.pdb
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\ToStringEx250916.genruntimeconfig.cache
+D:\CSharp2025\Project\ToStringEx250916\obj\Debug\net8.0\ref\ToStringEx250916.dll

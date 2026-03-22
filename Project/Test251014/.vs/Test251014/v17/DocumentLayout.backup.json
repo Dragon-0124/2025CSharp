@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp2025\\Project\\Test251014\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042F9422-C475-4775-9D47-B55C6355FCBD}|Test251014\\Test251014.csproj|d:\\csharp2025\\project\\test251014\\test251014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042F9422-C475-4775-9D47-B55C6355FCBD}|Test251014\\Test251014.csproj|solutionrelative:test251014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp2025\\Project\\Test251014\\Test251014\\Program.cs",
+              "RelativeDocumentMoniker": "Test251014\\Program.cs",
+              "ToolTip": "D:\\CSharp2025\\Project\\Test251014\\Test251014\\Program.cs",
+              "RelativeToolTip": "Test251014\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:05:18.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

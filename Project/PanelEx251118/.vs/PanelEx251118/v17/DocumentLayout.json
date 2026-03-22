@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp2025\\Project\\PanelEx251118\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871261F0-34E6-45BB-99FC-CEFD106A7ED4}|PanelEx251118\\PanelEx251118.csproj|f:\\csharp2025\\project\\panelex251118\\panelex251118\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{871261F0-34E6-45BB-99FC-CEFD106A7ED4}|PanelEx251118\\PanelEx251118.csproj|solutionrelative:panelex251118\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871261F0-34E6-45BB-99FC-CEFD106A7ED4}|PanelEx251118\\PanelEx251118.csproj|f:\\csharp2025\\project\\panelex251118\\panelex251118\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871261F0-34E6-45BB-99FC-CEFD106A7ED4}|PanelEx251118\\PanelEx251118.csproj|solutionrelative:panelex251118\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\CSharp2025\\Project\\PanelEx251118\\PanelEx251118\\Form1.cs",
+              "RelativeDocumentMoniker": "PanelEx251118\\Form1.cs",
+              "ToolTip": "F:\\CSharp2025\\Project\\PanelEx251118\\PanelEx251118\\Form1.cs",
+              "RelativeToolTip": "PanelEx251118\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:45:23.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "F:\\CSharp2025\\Project\\PanelEx251118\\PanelEx251118\\Form1.cs",
+              "RelativeDocumentMoniker": "PanelEx251118\\Form1.cs",
+              "ToolTip": "F:\\CSharp2025\\Project\\PanelEx251118\\PanelEx251118\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PanelEx251118\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:37:56.772Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

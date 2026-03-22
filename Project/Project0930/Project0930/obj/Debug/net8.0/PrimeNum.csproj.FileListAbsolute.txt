@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\Project0930\Project0930\bin\Debug\net8.0\PrimeNum.exe
+D:\CSharp2025\Project\Project0930\Project0930\bin\Debug\net8.0\PrimeNum.deps.json
+D:\CSharp2025\Project\Project0930\Project0930\bin\Debug\net8.0\PrimeNum.runtimeconfig.json
+D:\CSharp2025\Project\Project0930\Project0930\bin\Debug\net8.0\PrimeNum.dll
+D:\CSharp2025\Project\Project0930\Project0930\bin\Debug\net8.0\PrimeNum.pdb
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\PrimeNum.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\PrimeNum.AssemblyInfo.cs
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\PrimeNum.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\PrimeNum.dll
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\refint\PrimeNum.dll
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\PrimeNum.pdb
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\PrimeNum.genruntimeconfig.cache
+D:\CSharp2025\Project\Project0930\Project0930\obj\Debug\net8.0\ref\PrimeNum.dll

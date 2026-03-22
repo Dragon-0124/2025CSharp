@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\Homework3_4\Homework3_4\bin\Debug\net8.0\AntArray.exe
+D:\CSharp2025\Project\Homework3_4\Homework3_4\bin\Debug\net8.0\AntArray.deps.json
+D:\CSharp2025\Project\Homework3_4\Homework3_4\bin\Debug\net8.0\AntArray.runtimeconfig.json
+D:\CSharp2025\Project\Homework3_4\Homework3_4\bin\Debug\net8.0\AntArray.dll
+D:\CSharp2025\Project\Homework3_4\Homework3_4\bin\Debug\net8.0\AntArray.pdb
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\AntArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\AntArray.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\AntArray.AssemblyInfo.cs
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\AntArray.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\AntArray.dll
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\refint\AntArray.dll
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\AntArray.pdb
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\AntArray.genruntimeconfig.cache
+D:\CSharp2025\Project\Homework3_4\Homework3_4\obj\Debug\net8.0\ref\AntArray.dll

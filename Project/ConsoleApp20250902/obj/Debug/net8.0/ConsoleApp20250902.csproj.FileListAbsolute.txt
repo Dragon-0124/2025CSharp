@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\ConsoleApp20250902\bin\Debug\net8.0\ConsoleApp20250902.exe
+D:\CSharp2025\Project\ConsoleApp20250902\bin\Debug\net8.0\ConsoleApp20250902.deps.json
+D:\CSharp2025\Project\ConsoleApp20250902\bin\Debug\net8.0\ConsoleApp20250902.runtimeconfig.json
+D:\CSharp2025\Project\ConsoleApp20250902\bin\Debug\net8.0\ConsoleApp20250902.dll
+D:\CSharp2025\Project\ConsoleApp20250902\bin\Debug\net8.0\ConsoleApp20250902.pdb
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\ConsoleApp20250902.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\ConsoleApp20250902.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\ConsoleApp20250902.AssemblyInfo.cs
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\ConsoleApp20250902.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\ConsoleApp20250902.dll
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\refint\ConsoleApp20250902.dll
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\ConsoleApp20250902.pdb
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\ConsoleApp20250902.genruntimeconfig.cache
+D:\CSharp2025\Project\ConsoleApp20250902\obj\Debug\net8.0\ref\ConsoleApp20250902.dll

@@ -1,0 +1,17 @@
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\bin\Debug\net8.0-windows\dieLabel251104.exe
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\bin\Debug\net8.0-windows\dieLabel251104.deps.json
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\bin\Debug\net8.0-windows\dieLabel251104.runtimeconfig.json
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\bin\Debug\net8.0-windows\dieLabel251104.dll
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\bin\Debug\net8.0-windows\dieLabel251104.pdb
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.Form1.resources
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.Properties.Resources.resources
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.csproj.GenerateResource.cache
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.AssemblyInfoInputs.cache
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.AssemblyInfo.cs
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.csproj.CoreCompileInputs.cache
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.dll
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\refint\dieLabel251104.dll
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.pdb
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\dieLabel251104.genruntimeconfig.cache
+D:\Csharp2025\Project\dieLabel251104\dieLabel251104\obj\Debug\net8.0-windows\ref\dieLabel251104.dll

@@ -1,0 +1,16 @@
+F:\CSharp2025\Project\CrapsGame\CrapsGame\bin\Debug\net8.0-windows\CrapsGame.exe
+F:\CSharp2025\Project\CrapsGame\CrapsGame\bin\Debug\net8.0-windows\CrapsGame.deps.json
+F:\CSharp2025\Project\CrapsGame\CrapsGame\bin\Debug\net8.0-windows\CrapsGame.runtimeconfig.json
+F:\CSharp2025\Project\CrapsGame\CrapsGame\bin\Debug\net8.0-windows\CrapsGame.dll
+F:\CSharp2025\Project\CrapsGame\CrapsGame\bin\Debug\net8.0-windows\CrapsGame.pdb
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.csproj.GenerateResource.cache
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.AssemblyInfoInputs.cache
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.AssemblyInfo.cs
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.csproj.CoreCompileInputs.cache
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.dll
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\refint\CrapsGame.dll
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.pdb
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.genruntimeconfig.cache
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\ref\CrapsGame.dll
+F:\CSharp2025\Project\CrapsGame\CrapsGame\obj\Debug\net8.0-windows\CrapsGame.CrapsGame.resources

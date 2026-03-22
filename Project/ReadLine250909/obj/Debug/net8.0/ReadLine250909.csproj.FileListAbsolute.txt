@@ -1,0 +1,14 @@
+D:\CSharp2025\Project\ReadLine250909\bin\Debug\net8.0\ReadLine250909.exe
+D:\CSharp2025\Project\ReadLine250909\bin\Debug\net8.0\ReadLine250909.deps.json
+D:\CSharp2025\Project\ReadLine250909\bin\Debug\net8.0\ReadLine250909.runtimeconfig.json
+D:\CSharp2025\Project\ReadLine250909\bin\Debug\net8.0\ReadLine250909.dll
+D:\CSharp2025\Project\ReadLine250909\bin\Debug\net8.0\ReadLine250909.pdb
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\ReadLine250909.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\ReadLine250909.AssemblyInfoInputs.cache
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\ReadLine250909.AssemblyInfo.cs
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\ReadLine250909.csproj.CoreCompileInputs.cache
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\ReadLine250909.dll
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\refint\ReadLine250909.dll
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\ReadLine250909.pdb
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\ReadLine250909.genruntimeconfig.cache
+D:\CSharp2025\Project\ReadLine250909\obj\Debug\net8.0\ref\ReadLine250909.dll
